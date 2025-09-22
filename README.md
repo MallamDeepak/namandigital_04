@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # quizapp
 
 A new Flutter project.
@@ -16,3 +17,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 # No changes needed for README.md for UI update.
+=======
+# namandigital_04
+Quiz App  Design an interactive quiz application with multiple-choice questions, scoring, and a timer. Implement features for managing question categories and displaying results at the end of the quiz.
+>>>>>>> 84d240301416e68be203931fe28075523c4da7d1
